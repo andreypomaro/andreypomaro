@@ -52,7 +52,9 @@
     .fa{
         padding-bottom: 0px;
         margin: 0 5px;
-    }    
+    }
+
+    
 }
 
 @media (max-width: 1024px) {
@@ -86,40 +88,7 @@
     .fa{
         padding-bottom: 0px;
         margin: 0 5px;
-    }    
-}
-
-@media (max-width: 1440px) {
-    .header{
-        height: auto;
-    }
-    .header-ola{
-        padding-top: 0.4em;
     }
 
-    .header-titulo {
-        padding-bottom: 0.5em;
-    }
-
-    main {
-        margin: 0;
-        margin-bottom: 5em;
-    }
-    .perfil {
-        margin-top: 30px;
-    }
-
-    .lista {
-        margin: 10px 0px 45px 0px;
-    }
-    .lista-item {
-        width: auto;
-        margin: 20px 20px;
-        padding: 0.2em;
-    }
-
-    .fa{
-        padding-bottom: 0px;
-        margin: 0 5px;
-    }    
+    
 }
